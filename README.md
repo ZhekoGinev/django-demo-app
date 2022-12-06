@@ -2,7 +2,7 @@
 vanilla django project to play around with CI/CD deployments  
 
 
-Requirements:  
+### Dockerize with:  
 Must have docker and docker-compose intalled on your system.  
 
 ### Usage:
