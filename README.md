@@ -8,7 +8,7 @@ Must have docker and docker-compose intalled on your system.
 ### Usage:
 
 open terminal and run  
-docker-compose up  
+docker-compose up -d --build  
 
 
 This will build the django image from the Dockerfile and deploy the container.  
